@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/dinkywinkynimby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dinkywinkynimby" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30990422/abel-george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dinkywinkynimby" height="30" width="40" /></a>
 <a href="https://discord.gg/dinkywinkynimby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dinkywinkynimby" height="30" width="40" /></a>
 </p>
 
