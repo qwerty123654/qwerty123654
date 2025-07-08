@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CCNA, Server-Client code and C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/qwerty1234765](https://github.com/qwerty1234765)
+- 👨‍💻 All of my projects are available at [https://github.com/qwerty1234765](https://github.com/qwerty123654)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abel-george-22b7951a4/](https://www.linkedin.com/in/abel-george-22b7951a4/)
 
